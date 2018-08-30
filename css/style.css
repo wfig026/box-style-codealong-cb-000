@@ -235,7 +235,7 @@ header {
   font: 1em "Trebuchet MS", Arial, sans-serif;
 }
 #navbar nav a.selected {
-  background: #ccc;
+  background: #333;
   color: #fff;
 }
 
